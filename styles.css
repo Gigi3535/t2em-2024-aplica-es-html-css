@@ -3,8 +3,12 @@
 :root {
     --cor-de-fundo: #EBECEE;
     --branco: #FFFFFF;
+    --laranja: #eb9b00; 
 }
 
 body {
     background-color: var(--cor-de-fundo);
 }
+ .lista-menu__titulo {
+    color: var(--laranja)
+ }
